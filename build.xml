@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="test" name="crypto" basedir=".">
   <property name="name"           value="crypto"/>
-  <property name="version"        value="0.2.5"/>
-  <property name="versionDate"    value="2015-12-24"/>
+  <property name="version"        value="0.2.6"/>
+  <property name="versionDate"    value="2016-05-26"/>
   <!-- manual addition -->
-  <property name="project_name"   value="xlattice"/>
+  <property name="project_name"   value="xlCrypto_java"/>
   <!-- ======================================================= -->
   <!-- S O U R C E   P R O P E R T I E S                       -->
   <!-- ======================================================= -->
@@ -312,4 +312,5 @@
     <delete dir="${dist_dir}"/>
   </target>
 </project>
+
 
