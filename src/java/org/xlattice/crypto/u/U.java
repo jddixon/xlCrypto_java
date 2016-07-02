@@ -94,7 +94,7 @@ abstract class U {
                             .toString();
         File sigFile = new File(sigFilePath);
         if(!sigFile.exists()) {
-            String s = String.format("disStruc = %s\nlazy = %s\n", 
+            String s = String.format("dirStruc = %s\nlazy = %s\n", 
                                 DIR_STRUC_NAMES[u.dirStruc], u.isLazy);
             BufferedWriter out = new BufferedWriter(new FileWriter(sigFile));
             out.write(s);

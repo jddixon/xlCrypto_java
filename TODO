@@ -1,4 +1,7 @@
 // ~/dev/java/xlattice_j/crypto/TODO
 
+2016-05-26
+    * test.all succeeds but installit fails 
+
 2013-05-28
     * drop util/LICENSE.* from build.xml
