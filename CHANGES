@@ -1,5 +1,8 @@
 // ~/dev/java/xlCrypto_java/CHANGES
 
+v0.2.7
+    2016-07-02
+        * add ghpDoc/{css,img}/                                     SLOC 7491
 v0.2.6
     2016-05-25
         * split from xlattice_java
@@ -27,6 +30,7 @@ v0.2.0
         * added xdocs/ directory
     2011-08-23
         * uncommented SignedList.getVerifier()
+
 
 
 
