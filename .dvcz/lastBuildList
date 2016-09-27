@@ -7,25 +7,28 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-xlCrypto_java v0.2.7
-2016-07-02 20:12:22
-# START CONTENT #
+xlCrypto_java v0.2.8
+2016-09-27 19:31:49
+# BEGIN CONTENT #
 xlCrypto_java
  .dvcz
-  projCfg 9d77490a235743e071970edfcfbc588567e151d8
-  projCfg.local f35ceeffd68e7baf72d82779ce2e07414c84339d
-  version ee4c8a56b9912a5d21a7c854c7427f1f1febaee4
+  builds dd520bf8275c1ebf3daafa466cce6a37f0a5e8a1
+  copyright fdc6cab0fd7077cddba743c357a0e48e7179c181
+  lastBuildList e50725da5d3bec131f42a5c4140f285a0e9d12d4
+  license 31158001bd41a34771e96dad11a089f4863dea28
+  projCfg 6b6dae49c34cfbb7ebeeabb488a623be77f9b058
+  projCfg.local c5659d18e11933bdf1dacde1fdcc8cffec2a57b8
+  version c8b8e396b764519c0494b09bff32911062aa7149
  .gitignore 73b879f8842850058bca4519cca9b24d39bcf052
- CHANGES 2d37ae7fa4593d22eb092af74293fee9056b1d5c
- LICENSE.html 4d0038a843d3f3e0553fca7df2c17ad053916e5d
- LICENSE.md 50a6fc1b15e967d1dc37ba7559cf121a66240830
+ CHANGES 623152c8a2c44acdacd7a8226ef84191e6b4d761
+ LICENSE-XLATTICE.md bee3a87aa2ec7180859e80c7d7e6167a9c60a26a
  README.md ef2dc7c5065e00be7f96a0b7c2d118e11c06de72
  TODO e18d8899080b1d867e2455f097567794546f0d94
  bkp2U 90f25ffd32bcf5d42bbf3dfe4131c0ffb38dc57b
  build.sh 8844d742637d7668927c8c39cc2fba6e6b8736d7
- build.xml 5f2a2995ad314fcf0340f1c9f7d56966fa9add6c
+ build.xml 8b8b36d54348f6f665d4b8d1a3b1fd03139079f2
  classpath.sh 76a2ec0287f67fe1074714657aa637f2f706576f
- countem 5573c0ce1c906d1f5d13816ac59b2198978a20b3
+ countem 646e03f50828a88c0d2b4ba482c58a40db5282b8
  ghpDoc
   css
    LICENSE.html5-boilerplate.md ded771b3245b190da0e81c76de5a80d41392c0a6
@@ -60,7 +63,7 @@ xlCrypto_java
       SHA1Digest.java 41c700fab72ba808c5b7c44add2310d48d8d0f09
       SHA1withRSAVerifier.java 0e2a99e99fd0ff37dbbaa6cc1ac16f3ae44cb7b4
       SignedList.java 3e9f0bf3dcc380a1f4da68e84d467a8c842fdef8
-      Version.java eb0fbae32f10c03d7cf3ba5b6c63378a9e7e3bd2
+      Version.java 0ca23eca6685eb2ec0f0a68ef77bf76b9534858d
       builds
        BuildList.java 6ce691ac8249274a71fc27d8011db862ac5ed740
        BuildMaker.java 0ecf7f4cd8581313289e485769f7d72d93577a70
@@ -137,4 +140,4 @@ xlCrypto_java
  xdocs
 # END CONTENT #
 
-n+V5JlFU4PRhIXOxwv5Qm+z3D+EdWAmxkWyGKvrA3094a1cmf9i37yYVwIezABlsoozgwnzhuz87f1Xvp1h350bDj0HyhXMpikl2mHTz2DqlCIej3VeyQuEyHS0DQHnSk++JuM/IgErtfxf3ATLOIycxS9dyXI40ggDHHcwNCV6qpl6dAe5ArhqWVHtyVC15AQQIkfZXXC1ImO17XKEtYcLIY41jiZ+h6OI5FatrkmrPScJEU9bQmg2c9D7twBWKhDMPFGWrHmM3zc5S6zp8kmrFdYeTTR6zPLkdXm0R3eL6oqzHqpEfeud2XPlFWvZFJnNHPGcd/ZvcPlYBGgc80w==
+XAwHxHf4NDYDw40Ky4dvj/kFwh7Ym8UU6vnR02dsVAYlT3I5DSqtwQmu9LZXk44KjdVmwTljWNQk7FVtMsvOPSj4vvSpk2C7VA4EZlDSHRlRW2silR+BmilzzQAW3aBnv1Qm/hEHthV4PyF+yb9WAtwvCkBggAIpbL1ugsRA2X4jP2EBxi7Xap8HC0+ACjtdW6uSWpS/fcwLFLOVTidghU7Klozr3MduuWhMPYl6SREVEaPV3q+pcs901Z7NW2qrg8bmYimWGm/Vk2sTEiFFOOBLsVh4bBBkIWAdgGVCxLqMcgsER65V/ArtLLuuXfiMFrFdM4ZGhW537RjI3PxMSQ==

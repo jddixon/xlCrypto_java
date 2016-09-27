@@ -1,5 +1,7 @@
 # xlCrypto_java/.dvcz/projCfg.local
 
+txt:std:LICENSE-XLATTICE.md
+
 bin:local:test.client.private
 bin:local:test.client.public
 bin:local:test.server.private
